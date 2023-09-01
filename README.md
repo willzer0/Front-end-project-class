@@ -1,2 +1,9 @@
 # Front-end-project-class
-kelompok yang terdiri dari beberapa orang yang bertujuan membuat suatu interface menggunakan bahasa javascript
+== 
+Front-end-Stenly-Adam
+--
+*kelompok yang terdiri dari beberapa orang yang bertujuan membuat suatu interface menggunakan bahasa javascript*
+
+-html
+-css
+-javascript
